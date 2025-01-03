@@ -62,9 +62,9 @@ Ses sinyallerinin frekans ve zaman domain'lerindeki özelliklerini görselleşti
 
 #### Öfkeli Duygu
 - **Waveplot Grafiği**  
-  ![Öfkeli Duygu Waveplot](graphs/waveplot_ofkell.png)
+  ![Öfkeli Duygu Waveplot](graphs/waveplot_ofkeli.png)
 - **Spektrogram Grafiği**  
-  ![Öfkeli Duygu Spektrogram](graphs/spectrogram_ofkell.png)
+  ![Öfkeli Duygu Spektrogram](graphs/spectrogram_ofkeli.png)
 
 #### Nötr Duygu
 - **Waveplot Grafiği**  
