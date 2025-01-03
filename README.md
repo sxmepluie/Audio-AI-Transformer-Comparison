@@ -48,11 +48,26 @@ Modellerin performansı aşağıdaki metrikler kullanılarak değerlendirilmişt
 
 Ses sinyallerinin frekans ve zaman domain'lerindeki özelliklerini görselleştirmek için spektrogram ve waveplot grafikleri kullanılmıştır. Aşağıda, mutlu, üzgün, öfkeli ve nötr duygulara ait örnek grafikler gösterilmektedir.
 
-- **Mutlu Duyguya Ait Waveplot Grafiği**
-- **Mutlu Duyguya Ait Spektrogram Grafiği**
-- **Üzgün Duyguya Ait Waveplot Grafiği**
-- **Üzgün Duyguya Ait Spektrogram Grafiği**
-- **Öfkeli Duyguya Ait Waveplot Grafiği**
-- **Öfkeli Duyguya Ait Spektrogram Grafiği**
-- **Nötr Duyguya Ait Waveplot Grafiği**
-- **Nötr Duyguya Ait Spektrogram Grafiği**
+#### Mutlu Duygu
+- **Waveplot Grafiği**  
+  ![Mutlu Duygu Waveplot](graphs/mutlu_waveplot.png)
+- **Spektrogram Grafiği**  
+  ![Mutlu Duygu Spektrogram](graphs/mutlu_spektrogram.png)
+
+#### Üzgün Duygu
+- **Waveplot Grafiği**  
+  ![Üzgün Duygu Waveplot](graphs/uzgun_waveplot.png)
+- **Spektrogram Grafiği**  
+  ![Üzgün Duygu Spektrogram](graphs/uzgun_spektrogram.png)
+
+#### Öfkeli Duygu
+- **Waveplot Grafiği**  
+  ![Öfkeli Duygu Waveplot](graphs/ofkeli_waveplot.png)
+- **Spektrogram Grafiği**  
+  ![Öfkeli Duygu Spektrogram](graphs/ofkeli_spektrogram.png)
+
+#### Nötr Duygu
+- **Waveplot Grafiği**  
+  ![Nötr Duygu Waveplot](graphs/notr_waveplot.png)
+- **Spektrogram Grafiği**  
+  ![Nötr Duygu Spektrogram](graphs/notr_spektrogram.png)
