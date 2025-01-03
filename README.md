@@ -75,7 +75,7 @@ Ses sinyallerinin frekans ve zaman domain'lerindeki özelliklerini görselleşti
 ### Diğer Görselleştirmeler
 
 - **ROC Eğrisi**  
-  ![ROC Eğrisi](graphs/rockurve.png)
+  ![ROC Eğrisi](graphs/roc_curve.png)
 
 - **Karmaşıklık Matrisi**  
   ![Karmaşıklık Matrisi](graphs/confusion_matrix.png)
