@@ -71,3 +71,14 @@ Ses sinyallerinin frekans ve zaman domain'lerindeki özelliklerini görselleşti
   ![Nötr Duygu Waveplot](graphs/waveplot_notr.png)
 - **Spektrogram Grafiği**  
   ![Nötr Duygu Spektrogram](graphs/spectrogram_notr.png)
+
+### Diğer Görselleştirmeler
+
+- **ROC Eğrisi**  
+  ![ROC Eğrisi](graphs/rockurve.png)
+
+- **Karmaşıklık Matrisi**  
+  ![Karmaşıklık Matrisi](graphs/confusion_matrix.png)
+
+- **Epoch Sayısı vs Loss Grafiği**  
+  ![Epoch vs Loss](graphs/epoch_vs_loss.png)
