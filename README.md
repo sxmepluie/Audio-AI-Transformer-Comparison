@@ -50,24 +50,24 @@ Ses sinyallerinin frekans ve zaman domain'lerindeki özelliklerini görselleşti
 
 #### Mutlu Duygu
 - **Waveplot Grafiği**  
-  ![Mutlu Duygu Waveplot](graphs/mutlu_waveplot.png)
+  ![Mutlu Duygu Waveplot](graphs/waveplot_mutlu.png)
 - **Spektrogram Grafiği**  
-  ![Mutlu Duygu Spektrogram](graphs/mutlu_spektrogram.png)
+  ![Mutlu Duygu Spektrogram](graphs/spectrogram_mutlu.png)
 
 #### Üzgün Duygu
 - **Waveplot Grafiği**  
-  ![Üzgün Duygu Waveplot](graphs/uzgun_waveplot.png)
+  ![Üzgün Duygu Waveplot](graphs/waveplot_uzgun.png)
 - **Spektrogram Grafiği**  
-  ![Üzgün Duygu Spektrogram](graphs/uzgun_spektrogram.png)
+  ![Üzgün Duygu Spektrogram](graphs/spectrogram_uzgun.png)
 
 #### Öfkeli Duygu
 - **Waveplot Grafiği**  
-  ![Öfkeli Duygu Waveplot](graphs/ofkeli_waveplot.png)
+  ![Öfkeli Duygu Waveplot](graphs/waveplot_ofkell.png)
 - **Spektrogram Grafiği**  
-  ![Öfkeli Duygu Spektrogram](graphs/ofkeli_spektrogram.png)
+  ![Öfkeli Duygu Spektrogram](graphs/spectrogram_ofkell.png)
 
 #### Nötr Duygu
 - **Waveplot Grafiği**  
-  ![Nötr Duygu Waveplot](graphs/notr_waveplot.png)
+  ![Nötr Duygu Waveplot](graphs/waveplot_notr.png)
 - **Spektrogram Grafiği**  
-  ![Nötr Duygu Spektrogram](graphs/notr_spektrogram.png)
+  ![Nötr Duygu Spektrogram](graphs/spectrogram_notr.png)
