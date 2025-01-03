@@ -4,7 +4,7 @@ Bu proje, ses verisi üzerinde dört farklı transformator modelinin (Hubert, Wa
 
 ## Proje Hakkında
 
-Bu proje, Kocaeli Üniversitesi, Teknoloji Fakültesi, Bilişim Sistemleri Mühendisliği bölümünde yürütülmüştür. Proje, ses verisi üzerinde yapay zeka modellerinin performansını analiz etmek ve en etkili modeli belirlemek amacıyla gerçekleştirilmiştir.
+Bu proje, ses verisi üzerinde yapay zeka modellerinin performansını analiz etmek ve en etkili modeli belirlemek amacıyla gerçekleştirilmiştir.
 
 ## Kullanılan Modeller
 
